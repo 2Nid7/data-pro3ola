@@ -40,3 +40,9 @@ Created a project on Ola drivers and customer reviews using SQL & Power BI. This
 - Real-time data integration.
 - Enhanced drill-down capabilities for in-depth analysis.
 - Advanced filtering options for granular insights.
+
+#Tools
+MYSQL
+PowerBI
+EDA
+
