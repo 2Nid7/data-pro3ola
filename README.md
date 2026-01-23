@@ -41,8 +41,8 @@ Created a project on Ola drivers and customer reviews using SQL & Power BI. This
 - Enhanced drill-down capabilities for in-depth analysis.
 - Advanced filtering options for granular insights.
 
-#Tools
-MYSQL
-PowerBI
-EDA
+# Tools
+MYSQL,
+PowerBI,
+EDA.
 
